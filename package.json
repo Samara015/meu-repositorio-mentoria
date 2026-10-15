@@ -1,0 +1,9 @@
+{
+  "name": "meu-repositorio-mentoria",
+  "version": "1.0.0",
+  "description": "Atividade de JavaScript com testes automatizados",
+  "main": "src/analiseFilme.js",
+  "scripts": {
+    "test": "node --test teste/analiseFilmes.test.js"
+  }
+}
